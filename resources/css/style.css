@@ -10,11 +10,11 @@ header {
  margin-top: 80px;
  margin-bottom: 30px;
 }
-h1 {
+.linked {
     
     font-size: 16px;
     text-decoration: underline;
-
+    color:aquamarine;
     
 }
 #line1 {
